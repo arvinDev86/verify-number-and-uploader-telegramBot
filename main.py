@@ -3,7 +3,7 @@ from telebot import types
 import database  # ایمپورت کردن فایل دیتابیس که خودمان ساختیم
 
 # --- تنظیمات ---
-TOKEN = '8349714294:AAHqmbo3cl5b8BWxDmmApKM8svm-0mLuMgA'
+TOKEN = ''
 ADMIN_PASSWORD = '12345'  # رمز ادمین
 bot = telebot.TeleBot(TOKEN)
 
@@ -210,3 +210,4 @@ def admin_delete_category(message):
 # اجرای ربات
 print("Bot is running with Admin Panel...")
 bot.infinity_polling()
+
