@@ -26,5 +26,6 @@
 
 ۱. مخزن را کلون کنید یا فایل‌ها را دانلود کنید:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/arvinDev86/verify-number-and-uploader-telegramBot.git
+
+cd verify-number-and-uploader-telegramBot
